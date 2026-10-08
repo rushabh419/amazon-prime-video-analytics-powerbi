@@ -54,3 +54,7 @@
 * Regional Focus Markets: High concentration in the US and India indicates targeted regional subscriber acquisition strategies.
 * Library Modernization: Exponential catalog growth post-2015 reveals aggressive content licensing to compete with competing streaming platforms.
 * Strategic Recommendations: Identifies opportunities to increase episodic series acquisition to improve user retention and rebalance under-represented genres.
+
+* ### 9.	Screenshots / Demos
+Show what the dashboard looks like.
+Example: ![Dashboard Preview](https://github.com/rushabh419/amazon-prime-video-analytics-powerbi/blob/main/amazon-prime-powerbi.png)
